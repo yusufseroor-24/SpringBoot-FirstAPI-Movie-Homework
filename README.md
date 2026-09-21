@@ -8,10 +8,10 @@ Movie & TV Profile
 
 Developer Profile
 -
-Also Available at GET /api-hw/profile
-Name: Yusuf Seroor
-Bio: Watching movies & Tv shows is one of my fav hobbies
-Fav Movie: Interstellar 
+- Also Available at GET /api-hw/profile
+- Name: Yusuf Seroor
+- Bio: Watching movies & Tv shows is one of my fav hobbies
+- Fav Movie: Interstellar 
 
 Sample Data
  -
