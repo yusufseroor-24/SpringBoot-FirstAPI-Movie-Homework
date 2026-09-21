@@ -19,17 +19,17 @@ Sample Data
 
  Endpoints 
  - 
-GET	/api-hw/welcome : Introduces the application
-GET	/api-hw/profile : Developer profile
-GET	/api-hw/Movies&TvshowsList : Get all movies/shows
-GET	/api-hw/{id} : Get one item by ID
-GET	/api-hw/search?title=	: Search by title 
-GET	/api-hw/filter?genre=	: Filter by genre 
-POST	/api-hw/createMovie	: Create a new movie/show 
-PUT	/api-hw/{id} : Update an existing item 
-DELETE	/api-hw/{id} : Delete an item
-GET	/api-hw/stats	: Total movies, total TV shows, total items
-GET	/api-hw/high-ratings : Your feature, shows items rated above 8.0
+- GET	/api-hw/welcome : Introduces the application
+- GET	/api-hw/profile : Developer profile
+- GET	/api-hw/Movies&TvshowsList : Get all movies/shows
+- GET	/api-hw/{id} : Get one item by ID
+- GET	/api-hw/search?title=	: Search by title 
+- GET	/api-hw/filter?genre=	: Filter by genre 
+- POST	/api-hw/createMovie	: Create a new movie/show 
+- PUT	/api-hw/{id} : Update an existing item 
+- DELETE	/api-hw/{id} : Delete an item
+- GET	/api-hw/stats	: Total movies, total TV shows, total items
+- GET	/api-hw/high-ratings : Your feature, shows items rated above 8.0
 
 Local Host Screenshots
 -
